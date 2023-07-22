@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jasmusic/static/css/main.da913908.css",
+    "main.js": "/jasmusic/static/js/main.e1ace1da.js",
+    "static/js/787.dc4ed52b.chunk.js": "/jasmusic/static/js/787.dc4ed52b.chunk.js",
+    "static/media/Diljit.jpg": "/jasmusic/static/media/Diljit.c585dbc6df15e47809ad.jpg",
+    "static/media/Drake.jpg": "/jasmusic/static/media/Drake.4eb5bb08ab0f16087729.jpg",
+    "static/media/Honey Singh.jpg": "/jasmusic/static/media/Honey Singh.5cb15b61f242a50f3b20.jpg",
+    "static/media/logo.png": "/jasmusic/static/media/logo.afed7ebef305824633dd.png",
+    "static/media/Shav & Vinny.jpg": "/jasmusic/static/media/Shav & Vinny.4c78c383f10f451f009e.jpg",
+    "static/media/AP Dhillon.jpg": "/jasmusic/static/media/AP Dhillon.5af651fb37471fffd6f6.jpg",
+    "static/media/Imran Khan.jpg": "/jasmusic/static/media/Imran Khan.53a147a26fc2bc32a6cb.jpg",
+    "static/media/B Young.jpg": "/jasmusic/static/media/B Young.36919ddd34e2bf658c5a.jpg",
+    "static/media/Weeknd.jpg": "/jasmusic/static/media/Weeknd.5c4751fe2f25f3b4a0c1.jpg",
+    "static/media/PropheC.jpg": "/jasmusic/static/media/PropheC.689c365a1eb6478438aa.jpg",
+    "static/media/yess.png": "/jasmusic/static/media/yess.7eb1c61f468ef0131793.png",
+    "index.html": "/jasmusic/index.html",
+    "main.da913908.css.map": "/jasmusic/static/css/main.da913908.css.map",
+    "main.e1ace1da.js.map": "/jasmusic/static/js/main.e1ace1da.js.map",
+    "787.dc4ed52b.chunk.js.map": "/jasmusic/static/js/787.dc4ed52b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da913908.css",
+    "static/js/main.e1ace1da.js"
+  ]
+}

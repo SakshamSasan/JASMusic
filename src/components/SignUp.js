@@ -16,7 +16,7 @@ function SignIn() {
     useEffect(()=>{
         console.log(user,'hghf......\n')
         if(user){
-            return navigate('/')
+            return navigate('/jasmusic')
         }
     },[user])
 
@@ -90,7 +90,7 @@ function SignIn() {
             <div className='row w-100 '>
                 <div className='col d-flex justify-content-center'>
                 <div className="my-3 d-flex justify-content-center align-items-center" style={style.align}>
-                    <Link to='/signin'>Already a user ? Click here to Log In</Link>
+                    <Link to='/jasmusic/signin'>Already a user ? Click here to Log In</Link>
                 </div>
 
                 </div>

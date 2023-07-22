@@ -37,7 +37,7 @@ function NavBar() {
             <div className="container-fluid">
                 <div className='navbar-brand d-flex'>
                     <div className={`${classes.w_6} me-3`}>
-                        <Link to='/'><div className={classes.aspectratio}></div></Link>
+                        <Link to='/jasmusic'><div className={classes.aspectratio}></div></Link>
                     </div>
                     
                 </div> 
@@ -51,10 +51,10 @@ function NavBar() {
                         <ul className="navbar-nav m-auto mb-2 mb-lg-0 w-75">
 
                             <li className="nav-item my-3 me-lg-5">
-                                <Link className={classes.homelinks} aria-current="page" to="/">Home</Link>
+                                <Link className={classes.homelinks} aria-current="page" to="/jasmusic">Home</Link>
                             </li>
                             <li className="nav-item my-3 ml-lg-5">
-                                <Link className={classes.links} aria-current="page" to="/user">Favourites</Link>
+                                <Link className={classes.links} aria-current="page" to="/jasmusic/user">Favourites</Link>
                             </li>
                             
                             <li className='nav-item my-2 mb-3 ml-lg-5'>
@@ -63,7 +63,7 @@ function NavBar() {
                                 
                             </li>
                             <li className='nav-item mt-1'>
-                                <Link className={classes.links} aria-current="page" to="/user">
+                                <Link className={classes.links} aria-current="page" to="/jasmusic/user">
                                     <div className={classes.profilepic} style={style.person}></div>
                                 </Link>
                             </li>

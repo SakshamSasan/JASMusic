@@ -32,22 +32,22 @@ function App() {
 
     <Routes>
       
-      <Route exact path='/' element={<PrivateRoute><Home /></PrivateRoute>}>
+      <Route exact path='/jasmusic' element={<PrivateRoute><Home /></PrivateRoute>}>
       </Route>
 
-      <Route exact path='/artist/:id' element={<PrivateRoute><Artist /></PrivateRoute>}>
+      <Route exact path='/jasmusic/artist/:id' element={<PrivateRoute><Artist /></PrivateRoute>}>
       </Route>
 
-      <Route exact path='/user' element={<PrivateRoute><UserProfile /></PrivateRoute>}>
+      <Route exact path='/jasmusic/user' element={<PrivateRoute><UserProfile /></PrivateRoute>}>
       </Route>
 
-      <Route exact path='/signin' element={<SignIn />}>
+      <Route exact path='/jasmusic/signin' element={<SignIn />}>
       </Route>
 
-      <Route exact path='/signup' element={<SignUp />}>
+      <Route exact path='/jasmusic/signup' element={<SignUp />}>
       </Route>
       
-      <Route exact path='*' element={<Page404 />}>
+      <Route exact path='/jasmusic/*' element={<Page404 />}>
       </Route>
 
     </Routes>

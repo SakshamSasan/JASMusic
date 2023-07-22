@@ -44,7 +44,7 @@ function Home(){
 
     function redirect(e) {
     
-        navigate(`/artist/${e}`)
+        navigate(`/jasmusic/artist/${e}`)
     }
 
     

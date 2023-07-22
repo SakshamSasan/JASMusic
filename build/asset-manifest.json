@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jasmusic/static/css/main.da913908.css",
-    "main.js": "/jasmusic/static/js/main.e1ace1da.js",
+    "main.js": "/jasmusic/static/js/main.11cd8a61.js",
     "static/js/787.dc4ed52b.chunk.js": "/jasmusic/static/js/787.dc4ed52b.chunk.js",
     "static/media/Diljit.jpg": "/jasmusic/static/media/Diljit.c585dbc6df15e47809ad.jpg",
     "static/media/Drake.jpg": "/jasmusic/static/media/Drake.4eb5bb08ab0f16087729.jpg",
@@ -16,11 +16,11 @@
     "static/media/yess.png": "/jasmusic/static/media/yess.7eb1c61f468ef0131793.png",
     "index.html": "/jasmusic/index.html",
     "main.da913908.css.map": "/jasmusic/static/css/main.da913908.css.map",
-    "main.e1ace1da.js.map": "/jasmusic/static/js/main.e1ace1da.js.map",
+    "main.11cd8a61.js.map": "/jasmusic/static/js/main.11cd8a61.js.map",
     "787.dc4ed52b.chunk.js.map": "/jasmusic/static/js/787.dc4ed52b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.da913908.css",
-    "static/js/main.e1ace1da.js"
+    "static/js/main.11cd8a61.js"
   ]
 }

@@ -11,7 +11,7 @@ import {Toaster} from 'react-hot-toast';
 
 function PrivateRoute({children,...rest}){
     const user = useSelector(state=>state.user.value);
-    return user ? children : <Navigate to='/signin'/>
+    return user ? children : <Navigate to='/jasmusic/signin'/>
 }
 
 function Page404(){
